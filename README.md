@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alessio
 - 👀 I’m interested in games, football ...
 - 🌱 I have a Master's Degree in Cybersecurity and Bachelor's Degree in Computer Science
-- 💞️ I’m looking for job as SDE or DevOps Engineer
+- 💞️ I’m a DevOps Engineer
 - 📫 How to reach me: alessiopangamer@gmail.com
 
 <!---
